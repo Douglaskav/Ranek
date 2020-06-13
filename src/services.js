@@ -12,6 +12,6 @@ export const api = {
   },
 
   post(endpoint, body) {
-    return axiosInstance.post(endpoint, body)
+    return axiosInstance.post(endpoint, body);
   }
 }

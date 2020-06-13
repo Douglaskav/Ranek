@@ -12,7 +12,7 @@
     }
   ],
 
-  "produto": [
+  "produtos": [
     {
       "id": "notebook",
       "nome": "Notebook",
