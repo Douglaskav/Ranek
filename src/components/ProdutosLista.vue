@@ -1,28 +1,26 @@
 <template>
   <section class="produtos-container">
-    <div v-if="produtos && produtos.length" class="produtos">
-      <div class="produto" v-for="(produto, index) in produtos" :key="index">
-        <router-link to="/">
-          <img
-            v-if="produto.fotos"
-            :src="produto.fotos[0].src"
-            :alt="produto.fotos[0].titulo"
-          />
-          <h2 class="titulo">{{ produto.nome }}</h2>
-          <p class="preco">{{ produto.preco }}</p>
-          <p class="descricao">{{ produto.descricao }}</p>
-        </router-link>
+    <transition mode="out-in">
+      <div v-if="produtos && produtos.length" class="produtos" key="produtos">
+        <div class="produto" v-for="(produto, index) in produtos" :key="index">
+          <router-link to="/">
+            <img v-if="produto.fotos" :src="produto.fotos[0].src" :alt="produto.fotos[0].titulo" />
+            <h2 class="titulo">{{ produto.nome }}</h2>
+            <p class="preco">{{ produto.preco }}</p>
+            <p class="descricao">{{ produto.descricao }}</p>
+          </router-link>
+        </div>
+        <ProdutosPaginar
+          :produtosTotal="produtosTotal"
+          :produtosPorPagina="produtosPorPagina"
+          key="semResultados"
+        />
       </div>
-      <ProdutosPaginar
-        :produtosTotal="produtosTotal"
-        :produtosPorPagina="produtosPorPagina"
-      />
-    </div>
-    <div v-else-if="produtos && produtos.length === 0">
-      <p class="sem-resultados">
-        Busca sem resultados. Tente buscar outro termo.
-      </p>
-    </div>
+      <div v-else-if="produtos && produtos.length === 0">
+        <p class="sem-resultados">Busca sem resultados. Tente buscar outro termo.</p>
+      </div>
+      <PaginaCarregando v-else key="carregando" />
+    </transition>
   </section>
 </template>
 
@@ -37,12 +35,12 @@ export default {
     return {
       produtos: null,
       produtosPorPagina: 9,
-      produtosTotal: 0,
+      produtosTotal: 0
     };
   },
 
   components: {
-    ProdutosPaginar,
+    ProdutosPaginar
   },
 
   computed: {
@@ -50,26 +48,30 @@ export default {
       const query = serialize(this.$route.query);
 
       return `/produtos/?_limit=${this.produtosPorPagina}${query}`;
-    },
+    }
   },
 
   methods: {
-    async getProdutos() {
-      const response = await api.get(this.url);
-      this.produtosTotal = Number(response.headers["x-total-count"]);
-      this.produtos = response.data;
-    },
+    getProdutos() {
+      this.produtos = null;
+      setTimeout(() => {
+        api.get(this.url).then(response => {
+          this.produtosTotal = Number(response.headers["x-total-count"]);
+          this.produtos = response.data;
+        });
+      }, 1500);
+    }
   },
 
   watch: {
     url() {
       this.getProdutos();
-    },
+    }
   },
 
   created() {
     this.getProdutos();
-  },
+  }
 };
 </script>
 
