@@ -39,6 +39,1302 @@
       "vendido": "true",
       "descricao": "Essa é uma TV Smart.",
       "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    },
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
     }
   ]
 }
