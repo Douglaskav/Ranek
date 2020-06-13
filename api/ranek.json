@@ -1,0 +1,44 @@
+{
+  "usuario": [
+    {
+      "id": "nicolas@gmail.com",
+      "nome": "Douglas Nicolas",
+      "email": "nicolas@gmail.com",
+      "rua": "Rua da esquina",
+      "cep": "12345678",
+      "numero": "54",
+      "estado": "MG",
+      "cidade": "Curitiba"
+    }
+  ],
+
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smarthphone",
+      "nome": "Smartphone",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1200",
+      "vendido": "false",
+      "descricao": "Esse é um novo celular.",
+      "fotos": null
+    },
+    {
+      "id": "smartv",
+      "nome": "Smart TV",
+      "usuario_id": "nicolas@gmail.com",
+      "preco": "1999",
+      "vendido": "true",
+      "descricao": "Essa é uma TV Smart.",
+      "fotos": null
+    }
+  ]
+}
