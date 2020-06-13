@@ -9,6 +9,16 @@
       "numero": "54",
       "estado": "MG",
       "cidade": "Curitiba"
+    },
+    {
+      "id": "joao@gmail.com",
+      "nome": "Joao Rafael",
+      "email": "joao@gmail.com",
+      "rua": "Rua Ali Perto",
+      "cep": "12345558",
+      "numero": "24",
+      "estado": "MG",
+      "cidade": "Curitiba"
     }
   ],
 
