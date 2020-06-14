@@ -19,9 +19,56 @@
       "numero": "24",
       "estado": "MG",
       "cidade": "Curitiba"
+    },
+    {
+      "id": "maria@gmail.com",
+      "nome": "Maria Das Neves",
+      "email": "maria@gmail.com",
+      "senha": "123",
+      "cep": "22640102",
+      "rua": "Avenida das Américas",
+      "numero": "52",
+      "bairro": "Barra da Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ"
+    },
+    {
+      "id": "mariana@gmail.com",
+      "nome": "Mariana",
+      "email": "mariana@gmail.com",
+      "senha": "123",
+      "cep": "59607040",
+      "rua": "Rua Dedé Chatim",
+      "numero": "9",
+      "bairro": "Nova Betânia",
+      "cidade": "Mossoró",
+      "estado": "RN"
+    },
+    {
+      "id": "bel@gmail.com",
+      "nome": "Bel",
+      "email": "bel@gmail.com",
+      "senha": "123",
+      "cep": "59600017",
+      "rua": "Travessa Martins Vasconcelos",
+      "numero": "2",
+      "bairro": "Centro",
+      "cidade": "Mossoró",
+      "estado": "RN"
+    },
+    {
+      "id": "gab@gmail.com",
+      "nome": "Gab",
+      "email": "gab@gmail.com",
+      "senha": "123",
+      "cep": "59600400",
+      "rua": "Avenida Rio Branco",
+      "numero": "213",
+      "bairro": "Alto da Conceição",
+      "cidade": "Mossoró",
+      "estado": "RN"
     }
   ],
-
   "produtos": [
     {
       "id": "notebook",

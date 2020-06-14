@@ -66,7 +66,6 @@ export default {
   methods: {
     preencherCep() {
       const cep = this.cep.replace(/\D/g, "");
-      console.log(cep.length);
       if (cep.length === 8) {
         getCep(cep).then(response => {
           this.rua = response.data.logradouro;
