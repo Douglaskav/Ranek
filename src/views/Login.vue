@@ -38,7 +38,8 @@ export default {
   methods: {
     logar() {
       this.$store.dispatch("getUsuario", this.login.email);
-      this.$router.push({ name: "Usuario" });
+      const path = `/usuario/`;
+      if (this.$route.path !== path) this.$router.push(path);
     }
   }
 };

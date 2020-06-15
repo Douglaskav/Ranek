@@ -17,9 +17,10 @@ export default {
   },
   methods: {
     atualizarUsuario() {
+      console.log(this.$store.state.usuario.id, this.$store.state.usuario);
       api
         .put(
-          `/usuario/${this.$store.state.usuario.id}`,
+          `usuario/${this.$store.state.usuario.id}`,
           this.$store.state.usuario
         )
         .then(() => {

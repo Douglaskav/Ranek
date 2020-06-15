@@ -20,11 +20,11 @@ export default {
   data() {
     return {
       produto: {
-        usuario_id: "",
         nome: "",
         preco: "",
         descricao: "",
-        fotos: null
+        fotos: null,
+        vendido: "false"
       }
     };
   },
