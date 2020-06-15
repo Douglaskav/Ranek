@@ -43,6 +43,116 @@
         "estado": "RJ"
       },
       "id": 2
+    },
+    {
+      "comprador_id": "joao@gmail.com",
+      "vendedor_id": "nicolas@gmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "nicolas@gmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "22290160",
+        "rua": "Rua Lauro Muller",
+        "numero": "24",
+        "bairro": "Botafogo",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 3
+    },
+    {
+      "comprador_id": "mariana@gmail.com",
+      "vendedor_id": "maria@gmail.com",
+      "produto": {
+        "nome": "Tablet",
+        "preco": "1222",
+        "descricao": "Tablet da Maria",
+        "fotos": null,
+        "vendido": "false",
+        "usuario_id": "maria@gmail.com",
+        "id": "FYs5GDE"
+      },
+      "endereco": {
+        "cep": "59607040",
+        "rua": "Rua Dedé Chatim",
+        "numero": "10",
+        "bairro": "Nova Betânia",
+        "cidade": "Mossoró",
+        "estado": "RN"
+      },
+      "id": 4
+    },
+    {
+      "comprador_id": "douglas@gmail.com",
+      "vendedor_id": "nicolas@gmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "nicolas@gmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua da esquina",
+        "numero": "14",
+        "bairro": "Sombra",
+        "cidade": "Curitiba",
+        "estado": "MG"
+      },
+      "id": 5
+    },
+    {
+      "comprador_id": "douglas@gmail.com",
+      "vendedor_id": "nicolas@gmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "nicolas@gmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "12345678",
+        "rua": "Rua da esquina",
+        "numero": "14",
+        "bairro": "Sombra",
+        "cidade": "Curitiba",
+        "estado": "MG"
+      },
+      "id": 6
+    },
+    {
+      "comprador_id": "maria@gmail.com",
+      "vendedor_id": "nicolas@gmail.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "nicolas@gmail.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "22640102",
+        "rua": "Avenida das Américas",
+        "numero": "52",
+        "bairro": "Barra da Tijuca",
+        "cidade": "Rio de Janeiro",
+        "estado": "RJ"
+      },
+      "id": 7
     }
   ],
   "usuario": [
