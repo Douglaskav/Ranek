@@ -1392,6 +1392,35 @@
       "vendido": "true",
       "descricao": "Essa é uma TV Smart.",
       "fotos": null
+    },
+    {
+      "nome": "Tablet",
+      "preco": "2345",
+      "descricao": "Esse é um tablet.",
+      "fotos": null,
+      "id": "s-UcOJt"
+    },
+    {
+      "nome": "SmartWatch",
+      "preco": "999",
+      "descricao": "Relogio Apple",
+      "fotos": null,
+      "id": "i-rKoI8"
+    },
+    {
+      "nome": "Tablet",
+      "preco": "1999",
+      "descricao": "Tablet da Maria",
+      "fotos": null,
+      "id": "VvNRT10"
+    },
+    {
+      "usuario_id": "mariana@gmail.com",
+      "nome": "Tablet",
+      "preco": "2999",
+      "descricao": "Tablet da Mariana",
+      "fotos": null,
+      "id": "_u7WuXW"
     }
   ]
 }
