@@ -2,13 +2,15 @@
   "usuario": [
     {
       "id": "nicolas@gmail.com",
-      "nome": "Douglas Nicolas",
-      "email": "nicolas@gmail.com",
-      "rua": "Rua da esquina",
+      "nome": "Usuário Trocado",
+      "email": "douglas@gmail.com",
+      "senha": "123",
       "cep": "12345678",
-      "numero": "54",
-      "estado": "MG",
-      "cidade": "Curitiba"
+      "rua": "Rua da esquina",
+      "numero": "14",
+      "bairro": "Sombra",
+      "cidade": "Curitiba",
+      "estado": "MG"
     },
     {
       "id": "joao@gmail.com",
@@ -22,7 +24,7 @@
     },
     {
       "id": "maria@gmail.com",
-      "nome": "Maria Das Neves",
+      "nome": "Maria De Calcutar",
       "email": "maria@gmail.com",
       "senha": "123",
       "cep": "22640102",
@@ -39,7 +41,7 @@
       "senha": "123",
       "cep": "59607040",
       "rua": "Rua Dedé Chatim",
-      "numero": "9",
+      "numero": "10",
       "bairro": "Nova Betânia",
       "cidade": "Mossoró",
       "estado": "RN"
@@ -67,6 +69,18 @@
       "bairro": "Alto da Conceição",
       "cidade": "Mossoró",
       "estado": "RN"
+    },
+    {
+      "id": "XVx192t",
+      "nome": "",
+      "email": "",
+      "senha": "",
+      "cep": "",
+      "rua": "",
+      "numero": "",
+      "bairro": "",
+      "cidade": "",
+      "estado": ""
     }
   ],
   "produtos": [
