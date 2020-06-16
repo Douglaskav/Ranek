@@ -1,5 +1,7 @@
 # ranek
 
+<img src="./assets/PrintScreen.png" alt="Ranek Screen">
+
 ## Project setup
 ```
 npm install
